@@ -1,0 +1,1 @@
+Place your resume.pdf in the public folder to enable the download and preview feature in the Resume section. 
