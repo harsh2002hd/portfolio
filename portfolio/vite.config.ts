@@ -8,6 +8,7 @@ export default defineConfig({
     port: 5173,
     open: true,
   },
+  base: '/',
   css: {
     postcss: './postcss.config.cjs',
   },
